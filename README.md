@@ -1,4 +1,6 @@
 # 20-03-24 React Routes CW
+#### Great job once again!! Cool styling (although I would have liked to see the lst of characters display in a grid) and great work with the challenge! 
+#### Score : 5/5
 Set Up
 - Create a new react app called `cw-app`
 - Create a class based component called `AppContainer` with the text `React Routes CW`
